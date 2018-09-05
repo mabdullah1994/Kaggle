@@ -1,2 +1,2 @@
 # Kaggle
-This is Kaggle repository which will have all the IPython Jupyter notebooks.
+This repository is made for kaggle kernels
