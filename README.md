@@ -1,2 +1,2 @@
 # Kaggle
-This repository is made for kaggle kernels
+My kaggle kernels repository
